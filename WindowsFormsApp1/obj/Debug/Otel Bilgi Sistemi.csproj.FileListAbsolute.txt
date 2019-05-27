@@ -1,0 +1,15 @@
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Otel Bilgi Sistemi.csprojAssemblyReference.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Otel Bilgi Sistemi.csproj.GenerateResource.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Otel Bilgi Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Giris.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YöneticiPaneli.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Otel_Ekle.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Personel_Ekle.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıPaneli.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Otel Bilgi Sistemi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AgacIslemleri.resources
